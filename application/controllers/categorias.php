@@ -386,8 +386,9 @@ class Categorias extends CI_Controller {
         }
 
         return $aProducts;
-    }
-    
+    }  
     
 }
+
+// to test a new commit 
 ?>
